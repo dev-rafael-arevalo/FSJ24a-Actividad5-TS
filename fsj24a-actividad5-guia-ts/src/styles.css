@@ -1,0 +1,26 @@
+.exercise {
+    border: 1px solid #ddd;
+    padding: 15px;
+    margin-top: 20px;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+  }
+  
+  .exercise h2 {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+  }
+  
+  .exercise button {
+    margin-bottom: 10px;
+  }
+  
+  #outputExercise1, #outputExercise2 {
+    white-space: pre-wrap; /* Para preservar los saltos de línea */
+    font-family: monospace;
+    background-color: #eaeaea;
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 10px;
+  }
+  
